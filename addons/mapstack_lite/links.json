@@ -4,5 +4,9 @@
  "pro_page": "https://thepixelgoblin.itch.io/mapstack-pro?utm_source=godot-assetlib&utm_medium=organic&utm_campaign=202612-assetlib",
  "trailer": "https://youtu.be/M5GOXx_ELGY",
  "license_summary": "MapStack Free is free for personal, non-commercial projects: learning, prototypes, game jams, hobby projects and free games. A game you sell needs MapStack Pro.",
- "free_zip": {"url": "", "sha256": "", "version": ""}
+ "free_zip": {
+  "url": "https://github.com/P51moustache/mapstack-lite/releases/download/free-1.2.2/mapstack-1.2.2-free-addon.zip",
+  "sha256": "d19bb050b371b266939c777d7b945c05367f366ead6c0b555784f9818be6d930",
+  "version": "1.2.2"
+ }
 }
