@@ -1,0 +1,8 @@
+{
+ "about": "Where MapStack Lite sends people. free_zip: a direct download of the MapStack Free zip and its SHA-256; while its url is empty, Install opens free_page instead.",
+ "free_page": "https://thepixelgoblin.itch.io/mapstack?utm_source=godot-assetlib&utm_medium=organic&utm_campaign=202612-assetlib",
+ "pro_page": "https://thepixelgoblin.itch.io/mapstack-pro?utm_source=godot-assetlib&utm_medium=organic&utm_campaign=202612-assetlib",
+ "trailer": "https://youtu.be/M5GOXx_ELGY",
+ "license_summary": "MapStack Free is free for personal, non-commercial projects: learning, prototypes, game jams, hobby projects and free games. A game you sell needs MapStack Pro.",
+ "free_zip": {"url": "", "sha256": "", "version": ""}
+}
